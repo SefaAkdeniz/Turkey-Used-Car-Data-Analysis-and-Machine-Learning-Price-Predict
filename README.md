@@ -29,7 +29,6 @@
     <li>Separating Features and Labels</li>
     <li>Converting String Value To int Type for Labels</li>
     <li>Data Standardisation</li>
-    <li>Splitting Dataset into Training Set and Testing Set</li>
     <li>Build Random Forest Model</li>
     <li>Convert to Rest Api</li>
 </ol>
