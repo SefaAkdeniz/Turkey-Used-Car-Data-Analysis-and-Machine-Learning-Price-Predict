@@ -37,11 +37,4 @@
 <ol>
   <li>Create a Map</li>
   <li>Convert to Rest Api</li>
-</ol>  
-<b><h3>Examples</h3></b>
-![all text](https://github.com/SefaAkdeniz/Turkey-Used-Car-Data-Analysis-and-Machine-Learning-Price-Predict/blob/master/Examples/car1.JPG)
-![all text](https://github.com/SefaAkdeniz/Turkey-Used-Car-Data-Analysis-and-Machine-Learning-Price-Predict/blob/master/Examples/predict1.JPG)
-![all text](https://github.com/SefaAkdeniz/Turkey-Used-Car-Data-Analysis-and-Machine-Learning-Price-Predict/blob/master/Examples/car2.JPG)
-![all text](https://github.com/SefaAkdeniz/Turkey-Used-Car-Data-Analysis-and-Machine-Learning-Price-Predict/blob/master/Examples/predict2.JPG)
-<br>
-![all text](https://github.com/SefaAkdeniz/Turkey-Used-Car-Data-Analysis-and-Machine-Learning-Price-Predict/blob/master/Examples/map1.JPG)
+</ol>
